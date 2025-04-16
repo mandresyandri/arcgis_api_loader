@@ -9,6 +9,7 @@ Script permettant de récupérer des données depuis une API et de le charger en
 > Attention, le script ne fonctionnera pas si vous n'avez pas l'un des logiciel ArcGIS avec des licences valides.
 
 Pour télécharger le code source vous avez le choix entre git clone ou en téléchargeant le fichier. Il faudra donc le unzip. 
+
 ![image](https://github.com/user-attachments/assets/09df2a58-7a00-4110-b7ca-de9224f563f9)
 
 > IMPORTANT ! Il faudra remplacer les éléments dans `config.ini` pour adapter à votre cas. 
