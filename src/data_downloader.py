@@ -32,7 +32,7 @@ def telecharger_donnees_api(url):
         return None
     
 
-# Principalement pour la BAN
+# Principalement pour la BAN maintenant
 def telecharger_donnees_url(url):
     try:
         # Téléchargement et chargement des données CSV directement dans un DataFrame
