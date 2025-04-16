@@ -36,5 +36,8 @@ nom_feature_class=nom_featureclass
 
 ![image](https://github.com/user-attachments/assets/ffa715bd-7e2e-4592-aeae-4ae720c3b114)
 
-Il suffira juste de charger votre géodatabase pour accéder à la données si vous êtes sur un nouveau projet. ;) 
+2. Le script lancera le terminal et le fermera quand la tâche sera achevée 
+
+
+> Il suffira juste de charger votre géodatabase pour accéder à la données si vous êtes sur un nouveau projet. ;) 
 
